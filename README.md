@@ -1,2 +1,5 @@
 # bashlearn
-bash scripts
+bash scripts updated
+
+ls
+pwd
