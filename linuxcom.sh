@@ -5,3 +5,4 @@ cd bashlearn
 pwd
 ls
 pwd
+pwd
